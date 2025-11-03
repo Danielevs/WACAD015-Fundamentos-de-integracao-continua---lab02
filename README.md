@@ -24,8 +24,12 @@ O arquivo `build.yml` define um fluxo de trabalho que é executado automaticamen
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repo.git
+
 2. Faça alterações e envie para o GitHub
+
 git add .
+
 git commit -m "Atualiza workflow"
+
 git push
 
